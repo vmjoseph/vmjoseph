@@ -1,5 +1,22 @@
-### Hi there 👋
+ ```mermaid
+gitGraph
+  commit id: "07/12/22"
+  commit
+  branch orientation
+  checkout orientation
+  commit id: "eng orientation"
+  checkout main
+  merge orientation
+  commit
+  branch team-match
+  checkout team-match
+  commit id: "joined actions runtime"
+  checkout main
+  merge team-match
+  
+```
 
+Profile art by [coffeehands](https://coffeehands.carrd.co/)
 <!--
 **vmjoseph/vmjoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
